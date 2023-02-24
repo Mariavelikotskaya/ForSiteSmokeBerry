@@ -1,0 +1,31 @@
+* {
+    background-color: #F9F7F7;
+}
+.Container {
+    font-family: 'IBM Plex Serif';
+    font-style: italic;
+    font-size: 24px;
+    color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), alpha);
+    display: inline;
+    text-align: center;
+
+}
+.Container>h1 {
+    font-family: 'IBM Plex Serif';
+    font-style: italic;
+}
+.Linefirst>hr {
+    border: 1px solid #5082E4;
+    margin-top: 65px;
+    max-width: 65%;
+}
+.Linesecond>hr {
+/* background-color: #5082e4; 
+margin-top: 65px;
+max-width: 65%;
+height: 1px;*/
+    border: 1px solid #5082E4;
+    margin-top: 65px;
+    max-width: 65%;
+
+}
